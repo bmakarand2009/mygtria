@@ -156,3 +156,7 @@ Caused by: java.sql.SQLException: Column not found: PERSON_ALI1_.CLIENT_ID in st
 	... 7 more
 
 
+
+############
+WORKAROUND
+Currently I have the workaorund for it 
